@@ -1,0 +1,27 @@
+.Cart_div{
+    border: 2px black solid;
+    width:28%;
+    height: 85%;
+    position: absolute;
+    background-color: rgba(245, 245, 245, 0.866);    
+    right: 0px;
+    border-top-left-radius:10px;
+    border-bottom-left-radius: 10px;
+}   
+
+.Cart_div_Banner{
+    border: 2px black solid;
+    margin: 0px;
+    min-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.Cart_div_items{
+    border: 2px black solid;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
